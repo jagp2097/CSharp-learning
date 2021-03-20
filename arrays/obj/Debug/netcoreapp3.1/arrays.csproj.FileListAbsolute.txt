@@ -1,0 +1,13 @@
+/home/jagp/Desktop/programming-languages/c#/arrays/obj/Debug/netcoreapp3.1/arrays.csprojAssemblyReference.cache
+/home/jagp/Desktop/programming-languages/c#/arrays/obj/Debug/netcoreapp3.1/arrays.AssemblyInfoInputs.cache
+/home/jagp/Desktop/programming-languages/c#/arrays/obj/Debug/netcoreapp3.1/arrays.AssemblyInfo.cs
+/home/jagp/Desktop/programming-languages/c#/arrays/obj/Debug/netcoreapp3.1/arrays.csproj.CoreCompileInputs.cache
+/home/jagp/Desktop/programming-languages/c#/arrays/bin/Debug/netcoreapp3.1/arrays
+/home/jagp/Desktop/programming-languages/c#/arrays/bin/Debug/netcoreapp3.1/arrays.deps.json
+/home/jagp/Desktop/programming-languages/c#/arrays/bin/Debug/netcoreapp3.1/arrays.runtimeconfig.json
+/home/jagp/Desktop/programming-languages/c#/arrays/bin/Debug/netcoreapp3.1/arrays.runtimeconfig.dev.json
+/home/jagp/Desktop/programming-languages/c#/arrays/bin/Debug/netcoreapp3.1/arrays.dll
+/home/jagp/Desktop/programming-languages/c#/arrays/bin/Debug/netcoreapp3.1/arrays.pdb
+/home/jagp/Desktop/programming-languages/c#/arrays/obj/Debug/netcoreapp3.1/arrays.dll
+/home/jagp/Desktop/programming-languages/c#/arrays/obj/Debug/netcoreapp3.1/arrays.pdb
+/home/jagp/Desktop/programming-languages/c#/arrays/obj/Debug/netcoreapp3.1/arrays.genruntimeconfig.cache
