@@ -1,0 +1,13 @@
+/home/jagp/Desktop/programming-languages/c#/EjemploFinally/obj/Debug/netcoreapp3.1/EjemploFinally.csprojAssemblyReference.cache
+/home/jagp/Desktop/programming-languages/c#/EjemploFinally/obj/Debug/netcoreapp3.1/EjemploFinally.AssemblyInfoInputs.cache
+/home/jagp/Desktop/programming-languages/c#/EjemploFinally/obj/Debug/netcoreapp3.1/EjemploFinally.AssemblyInfo.cs
+/home/jagp/Desktop/programming-languages/c#/EjemploFinally/obj/Debug/netcoreapp3.1/EjemploFinally.csproj.CoreCompileInputs.cache
+/home/jagp/Desktop/programming-languages/c#/EjemploFinally/bin/Debug/netcoreapp3.1/EjemploFinally
+/home/jagp/Desktop/programming-languages/c#/EjemploFinally/bin/Debug/netcoreapp3.1/EjemploFinally.deps.json
+/home/jagp/Desktop/programming-languages/c#/EjemploFinally/bin/Debug/netcoreapp3.1/EjemploFinally.runtimeconfig.json
+/home/jagp/Desktop/programming-languages/c#/EjemploFinally/bin/Debug/netcoreapp3.1/EjemploFinally.runtimeconfig.dev.json
+/home/jagp/Desktop/programming-languages/c#/EjemploFinally/bin/Debug/netcoreapp3.1/EjemploFinally.dll
+/home/jagp/Desktop/programming-languages/c#/EjemploFinally/bin/Debug/netcoreapp3.1/EjemploFinally.pdb
+/home/jagp/Desktop/programming-languages/c#/EjemploFinally/obj/Debug/netcoreapp3.1/EjemploFinally.dll
+/home/jagp/Desktop/programming-languages/c#/EjemploFinally/obj/Debug/netcoreapp3.1/EjemploFinally.pdb
+/home/jagp/Desktop/programming-languages/c#/EjemploFinally/obj/Debug/netcoreapp3.1/EjemploFinally.genruntimeconfig.cache

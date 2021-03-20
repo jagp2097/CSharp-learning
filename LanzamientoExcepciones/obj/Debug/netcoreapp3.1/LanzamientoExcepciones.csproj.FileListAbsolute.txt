@@ -1,0 +1,13 @@
+/home/jagp/Desktop/programming-languages/c#/LanzamientoExcepciones/bin/Debug/netcoreapp3.1/LanzamientoExcepciones
+/home/jagp/Desktop/programming-languages/c#/LanzamientoExcepciones/bin/Debug/netcoreapp3.1/LanzamientoExcepciones.deps.json
+/home/jagp/Desktop/programming-languages/c#/LanzamientoExcepciones/bin/Debug/netcoreapp3.1/LanzamientoExcepciones.runtimeconfig.json
+/home/jagp/Desktop/programming-languages/c#/LanzamientoExcepciones/bin/Debug/netcoreapp3.1/LanzamientoExcepciones.runtimeconfig.dev.json
+/home/jagp/Desktop/programming-languages/c#/LanzamientoExcepciones/bin/Debug/netcoreapp3.1/LanzamientoExcepciones.dll
+/home/jagp/Desktop/programming-languages/c#/LanzamientoExcepciones/bin/Debug/netcoreapp3.1/LanzamientoExcepciones.pdb
+/home/jagp/Desktop/programming-languages/c#/LanzamientoExcepciones/obj/Debug/netcoreapp3.1/LanzamientoExcepciones.csprojAssemblyReference.cache
+/home/jagp/Desktop/programming-languages/c#/LanzamientoExcepciones/obj/Debug/netcoreapp3.1/LanzamientoExcepciones.AssemblyInfoInputs.cache
+/home/jagp/Desktop/programming-languages/c#/LanzamientoExcepciones/obj/Debug/netcoreapp3.1/LanzamientoExcepciones.AssemblyInfo.cs
+/home/jagp/Desktop/programming-languages/c#/LanzamientoExcepciones/obj/Debug/netcoreapp3.1/LanzamientoExcepciones.csproj.CoreCompileInputs.cache
+/home/jagp/Desktop/programming-languages/c#/LanzamientoExcepciones/obj/Debug/netcoreapp3.1/LanzamientoExcepciones.dll
+/home/jagp/Desktop/programming-languages/c#/LanzamientoExcepciones/obj/Debug/netcoreapp3.1/LanzamientoExcepciones.pdb
+/home/jagp/Desktop/programming-languages/c#/LanzamientoExcepciones/obj/Debug/netcoreapp3.1/LanzamientoExcepciones.genruntimeconfig.cache

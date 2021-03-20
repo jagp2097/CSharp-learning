@@ -1,0 +1,13 @@
+/home/jagp/Desktop/programming-languages/c#/PracticaMetodos/bin/Debug/netcoreapp3.1/PracticaMetodos
+/home/jagp/Desktop/programming-languages/c#/PracticaMetodos/bin/Debug/netcoreapp3.1/PracticaMetodos.deps.json
+/home/jagp/Desktop/programming-languages/c#/PracticaMetodos/bin/Debug/netcoreapp3.1/PracticaMetodos.runtimeconfig.json
+/home/jagp/Desktop/programming-languages/c#/PracticaMetodos/bin/Debug/netcoreapp3.1/PracticaMetodos.runtimeconfig.dev.json
+/home/jagp/Desktop/programming-languages/c#/PracticaMetodos/bin/Debug/netcoreapp3.1/PracticaMetodos.dll
+/home/jagp/Desktop/programming-languages/c#/PracticaMetodos/bin/Debug/netcoreapp3.1/PracticaMetodos.pdb
+/home/jagp/Desktop/programming-languages/c#/PracticaMetodos/obj/Debug/netcoreapp3.1/PracticaMetodos.csprojAssemblyReference.cache
+/home/jagp/Desktop/programming-languages/c#/PracticaMetodos/obj/Debug/netcoreapp3.1/PracticaMetodos.AssemblyInfoInputs.cache
+/home/jagp/Desktop/programming-languages/c#/PracticaMetodos/obj/Debug/netcoreapp3.1/PracticaMetodos.AssemblyInfo.cs
+/home/jagp/Desktop/programming-languages/c#/PracticaMetodos/obj/Debug/netcoreapp3.1/PracticaMetodos.csproj.CoreCompileInputs.cache
+/home/jagp/Desktop/programming-languages/c#/PracticaMetodos/obj/Debug/netcoreapp3.1/PracticaMetodos.dll
+/home/jagp/Desktop/programming-languages/c#/PracticaMetodos/obj/Debug/netcoreapp3.1/PracticaMetodos.pdb
+/home/jagp/Desktop/programming-languages/c#/PracticaMetodos/obj/Debug/netcoreapp3.1/PracticaMetodos.genruntimeconfig.cache

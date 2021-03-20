@@ -1,0 +1,13 @@
+/home/jagp/Desktop/programming-languages/c#/ConceptosPOO/obj/Debug/netcoreapp3.1/ConceptosPOO.csprojAssemblyReference.cache
+/home/jagp/Desktop/programming-languages/c#/ConceptosPOO/obj/Debug/netcoreapp3.1/ConceptosPOO.AssemblyInfoInputs.cache
+/home/jagp/Desktop/programming-languages/c#/ConceptosPOO/obj/Debug/netcoreapp3.1/ConceptosPOO.AssemblyInfo.cs
+/home/jagp/Desktop/programming-languages/c#/ConceptosPOO/obj/Debug/netcoreapp3.1/ConceptosPOO.csproj.CoreCompileInputs.cache
+/home/jagp/Desktop/programming-languages/c#/ConceptosPOO/bin/Debug/netcoreapp3.1/ConceptosPOO
+/home/jagp/Desktop/programming-languages/c#/ConceptosPOO/bin/Debug/netcoreapp3.1/ConceptosPOO.deps.json
+/home/jagp/Desktop/programming-languages/c#/ConceptosPOO/bin/Debug/netcoreapp3.1/ConceptosPOO.runtimeconfig.json
+/home/jagp/Desktop/programming-languages/c#/ConceptosPOO/bin/Debug/netcoreapp3.1/ConceptosPOO.runtimeconfig.dev.json
+/home/jagp/Desktop/programming-languages/c#/ConceptosPOO/bin/Debug/netcoreapp3.1/ConceptosPOO.dll
+/home/jagp/Desktop/programming-languages/c#/ConceptosPOO/bin/Debug/netcoreapp3.1/ConceptosPOO.pdb
+/home/jagp/Desktop/programming-languages/c#/ConceptosPOO/obj/Debug/netcoreapp3.1/ConceptosPOO.dll
+/home/jagp/Desktop/programming-languages/c#/ConceptosPOO/obj/Debug/netcoreapp3.1/ConceptosPOO.pdb
+/home/jagp/Desktop/programming-languages/c#/ConceptosPOO/obj/Debug/netcoreapp3.1/ConceptosPOO.genruntimeconfig.cache

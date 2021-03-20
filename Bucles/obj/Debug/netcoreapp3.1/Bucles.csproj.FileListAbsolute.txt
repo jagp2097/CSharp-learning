@@ -1,0 +1,13 @@
+/home/jagp/Desktop/programming-languages/c#/Bucles/obj/Debug/netcoreapp3.1/Bucles.csprojAssemblyReference.cache
+/home/jagp/Desktop/programming-languages/c#/Bucles/obj/Debug/netcoreapp3.1/Bucles.AssemblyInfoInputs.cache
+/home/jagp/Desktop/programming-languages/c#/Bucles/obj/Debug/netcoreapp3.1/Bucles.AssemblyInfo.cs
+/home/jagp/Desktop/programming-languages/c#/Bucles/obj/Debug/netcoreapp3.1/Bucles.csproj.CoreCompileInputs.cache
+/home/jagp/Desktop/programming-languages/c#/Bucles/bin/Debug/netcoreapp3.1/Bucles
+/home/jagp/Desktop/programming-languages/c#/Bucles/bin/Debug/netcoreapp3.1/Bucles.deps.json
+/home/jagp/Desktop/programming-languages/c#/Bucles/bin/Debug/netcoreapp3.1/Bucles.runtimeconfig.json
+/home/jagp/Desktop/programming-languages/c#/Bucles/bin/Debug/netcoreapp3.1/Bucles.runtimeconfig.dev.json
+/home/jagp/Desktop/programming-languages/c#/Bucles/bin/Debug/netcoreapp3.1/Bucles.dll
+/home/jagp/Desktop/programming-languages/c#/Bucles/bin/Debug/netcoreapp3.1/Bucles.pdb
+/home/jagp/Desktop/programming-languages/c#/Bucles/obj/Debug/netcoreapp3.1/Bucles.dll
+/home/jagp/Desktop/programming-languages/c#/Bucles/obj/Debug/netcoreapp3.1/Bucles.pdb
+/home/jagp/Desktop/programming-languages/c#/Bucles/obj/Debug/netcoreapp3.1/Bucles.genruntimeconfig.cache

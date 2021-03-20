@@ -1,0 +1,13 @@
+/home/jagp/Desktop/programming-languages/c#/UsoChecked/bin/Debug/netcoreapp3.1/UsoChecked
+/home/jagp/Desktop/programming-languages/c#/UsoChecked/bin/Debug/netcoreapp3.1/UsoChecked.deps.json
+/home/jagp/Desktop/programming-languages/c#/UsoChecked/bin/Debug/netcoreapp3.1/UsoChecked.runtimeconfig.json
+/home/jagp/Desktop/programming-languages/c#/UsoChecked/bin/Debug/netcoreapp3.1/UsoChecked.runtimeconfig.dev.json
+/home/jagp/Desktop/programming-languages/c#/UsoChecked/bin/Debug/netcoreapp3.1/UsoChecked.dll
+/home/jagp/Desktop/programming-languages/c#/UsoChecked/bin/Debug/netcoreapp3.1/UsoChecked.pdb
+/home/jagp/Desktop/programming-languages/c#/UsoChecked/obj/Debug/netcoreapp3.1/UsoChecked.csprojAssemblyReference.cache
+/home/jagp/Desktop/programming-languages/c#/UsoChecked/obj/Debug/netcoreapp3.1/UsoChecked.AssemblyInfoInputs.cache
+/home/jagp/Desktop/programming-languages/c#/UsoChecked/obj/Debug/netcoreapp3.1/UsoChecked.AssemblyInfo.cs
+/home/jagp/Desktop/programming-languages/c#/UsoChecked/obj/Debug/netcoreapp3.1/UsoChecked.csproj.CoreCompileInputs.cache
+/home/jagp/Desktop/programming-languages/c#/UsoChecked/obj/Debug/netcoreapp3.1/UsoChecked.dll
+/home/jagp/Desktop/programming-languages/c#/UsoChecked/obj/Debug/netcoreapp3.1/UsoChecked.pdb
+/home/jagp/Desktop/programming-languages/c#/UsoChecked/obj/Debug/netcoreapp3.1/UsoChecked.genruntimeconfig.cache

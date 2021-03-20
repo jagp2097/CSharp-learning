@@ -1,0 +1,13 @@
+/home/jagp/Desktop/programming-languages/c#/EjemplosPOO/bin/Debug/netcoreapp3.1/EjemplosPOO
+/home/jagp/Desktop/programming-languages/c#/EjemplosPOO/bin/Debug/netcoreapp3.1/EjemplosPOO.deps.json
+/home/jagp/Desktop/programming-languages/c#/EjemplosPOO/bin/Debug/netcoreapp3.1/EjemplosPOO.runtimeconfig.json
+/home/jagp/Desktop/programming-languages/c#/EjemplosPOO/bin/Debug/netcoreapp3.1/EjemplosPOO.runtimeconfig.dev.json
+/home/jagp/Desktop/programming-languages/c#/EjemplosPOO/bin/Debug/netcoreapp3.1/EjemplosPOO.dll
+/home/jagp/Desktop/programming-languages/c#/EjemplosPOO/bin/Debug/netcoreapp3.1/EjemplosPOO.pdb
+/home/jagp/Desktop/programming-languages/c#/EjemplosPOO/obj/Debug/netcoreapp3.1/EjemplosPOO.csprojAssemblyReference.cache
+/home/jagp/Desktop/programming-languages/c#/EjemplosPOO/obj/Debug/netcoreapp3.1/EjemplosPOO.AssemblyInfoInputs.cache
+/home/jagp/Desktop/programming-languages/c#/EjemplosPOO/obj/Debug/netcoreapp3.1/EjemplosPOO.AssemblyInfo.cs
+/home/jagp/Desktop/programming-languages/c#/EjemplosPOO/obj/Debug/netcoreapp3.1/EjemplosPOO.csproj.CoreCompileInputs.cache
+/home/jagp/Desktop/programming-languages/c#/EjemplosPOO/obj/Debug/netcoreapp3.1/EjemplosPOO.dll
+/home/jagp/Desktop/programming-languages/c#/EjemplosPOO/obj/Debug/netcoreapp3.1/EjemplosPOO.pdb
+/home/jagp/Desktop/programming-languages/c#/EjemplosPOO/obj/Debug/netcoreapp3.1/EjemplosPOO.genruntimeconfig.cache
