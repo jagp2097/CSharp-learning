@@ -1,0 +1,13 @@
+/home/jagp/Desktop/programming-languages/c#/curso-design-patterns/solid-srp/bin/Debug/netcoreapp3.1/solid-srp
+/home/jagp/Desktop/programming-languages/c#/curso-design-patterns/solid-srp/bin/Debug/netcoreapp3.1/solid-srp.deps.json
+/home/jagp/Desktop/programming-languages/c#/curso-design-patterns/solid-srp/bin/Debug/netcoreapp3.1/solid-srp.runtimeconfig.json
+/home/jagp/Desktop/programming-languages/c#/curso-design-patterns/solid-srp/bin/Debug/netcoreapp3.1/solid-srp.runtimeconfig.dev.json
+/home/jagp/Desktop/programming-languages/c#/curso-design-patterns/solid-srp/bin/Debug/netcoreapp3.1/solid-srp.dll
+/home/jagp/Desktop/programming-languages/c#/curso-design-patterns/solid-srp/bin/Debug/netcoreapp3.1/solid-srp.pdb
+/home/jagp/Desktop/programming-languages/c#/curso-design-patterns/solid-srp/obj/Debug/netcoreapp3.1/solid-srp.csprojAssemblyReference.cache
+/home/jagp/Desktop/programming-languages/c#/curso-design-patterns/solid-srp/obj/Debug/netcoreapp3.1/solid-srp.AssemblyInfoInputs.cache
+/home/jagp/Desktop/programming-languages/c#/curso-design-patterns/solid-srp/obj/Debug/netcoreapp3.1/solid-srp.AssemblyInfo.cs
+/home/jagp/Desktop/programming-languages/c#/curso-design-patterns/solid-srp/obj/Debug/netcoreapp3.1/solid-srp.csproj.CoreCompileInputs.cache
+/home/jagp/Desktop/programming-languages/c#/curso-design-patterns/solid-srp/obj/Debug/netcoreapp3.1/solid-srp.dll
+/home/jagp/Desktop/programming-languages/c#/curso-design-patterns/solid-srp/obj/Debug/netcoreapp3.1/solid-srp.pdb
+/home/jagp/Desktop/programming-languages/c#/curso-design-patterns/solid-srp/obj/Debug/netcoreapp3.1/solid-srp.genruntimeconfig.cache
