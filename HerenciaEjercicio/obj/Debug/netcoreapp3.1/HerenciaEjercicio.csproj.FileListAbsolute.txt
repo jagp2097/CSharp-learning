@@ -1,0 +1,13 @@
+/home/jagp/Desktop/programming-languages/c#/HerenciaEjercicio/bin/Debug/netcoreapp3.1/HerenciaEjercicio
+/home/jagp/Desktop/programming-languages/c#/HerenciaEjercicio/bin/Debug/netcoreapp3.1/HerenciaEjercicio.deps.json
+/home/jagp/Desktop/programming-languages/c#/HerenciaEjercicio/bin/Debug/netcoreapp3.1/HerenciaEjercicio.runtimeconfig.json
+/home/jagp/Desktop/programming-languages/c#/HerenciaEjercicio/bin/Debug/netcoreapp3.1/HerenciaEjercicio.runtimeconfig.dev.json
+/home/jagp/Desktop/programming-languages/c#/HerenciaEjercicio/bin/Debug/netcoreapp3.1/HerenciaEjercicio.dll
+/home/jagp/Desktop/programming-languages/c#/HerenciaEjercicio/bin/Debug/netcoreapp3.1/HerenciaEjercicio.pdb
+/home/jagp/Desktop/programming-languages/c#/HerenciaEjercicio/obj/Debug/netcoreapp3.1/HerenciaEjercicio.csprojAssemblyReference.cache
+/home/jagp/Desktop/programming-languages/c#/HerenciaEjercicio/obj/Debug/netcoreapp3.1/HerenciaEjercicio.AssemblyInfoInputs.cache
+/home/jagp/Desktop/programming-languages/c#/HerenciaEjercicio/obj/Debug/netcoreapp3.1/HerenciaEjercicio.AssemblyInfo.cs
+/home/jagp/Desktop/programming-languages/c#/HerenciaEjercicio/obj/Debug/netcoreapp3.1/HerenciaEjercicio.csproj.CoreCompileInputs.cache
+/home/jagp/Desktop/programming-languages/c#/HerenciaEjercicio/obj/Debug/netcoreapp3.1/HerenciaEjercicio.dll
+/home/jagp/Desktop/programming-languages/c#/HerenciaEjercicio/obj/Debug/netcoreapp3.1/HerenciaEjercicio.pdb
+/home/jagp/Desktop/programming-languages/c#/HerenciaEjercicio/obj/Debug/netcoreapp3.1/HerenciaEjercicio.genruntimeconfig.cache
