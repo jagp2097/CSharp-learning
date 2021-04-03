@@ -1,0 +1,13 @@
+/home/jagp/Desktop/programming-languages/c#/curso-design-patterns/solid-ocp/solucion/obj/Debug/netcoreapp3.1/solucion.csprojAssemblyReference.cache
+/home/jagp/Desktop/programming-languages/c#/curso-design-patterns/solid-ocp/solucion/obj/Debug/netcoreapp3.1/solucion.AssemblyInfoInputs.cache
+/home/jagp/Desktop/programming-languages/c#/curso-design-patterns/solid-ocp/solucion/obj/Debug/netcoreapp3.1/solucion.AssemblyInfo.cs
+/home/jagp/Desktop/programming-languages/c#/curso-design-patterns/solid-ocp/solucion/obj/Debug/netcoreapp3.1/solucion.csproj.CoreCompileInputs.cache
+/home/jagp/Desktop/programming-languages/c#/curso-design-patterns/solid-ocp/solucion/bin/Debug/netcoreapp3.1/solucion
+/home/jagp/Desktop/programming-languages/c#/curso-design-patterns/solid-ocp/solucion/bin/Debug/netcoreapp3.1/solucion.deps.json
+/home/jagp/Desktop/programming-languages/c#/curso-design-patterns/solid-ocp/solucion/bin/Debug/netcoreapp3.1/solucion.runtimeconfig.json
+/home/jagp/Desktop/programming-languages/c#/curso-design-patterns/solid-ocp/solucion/bin/Debug/netcoreapp3.1/solucion.runtimeconfig.dev.json
+/home/jagp/Desktop/programming-languages/c#/curso-design-patterns/solid-ocp/solucion/bin/Debug/netcoreapp3.1/solucion.dll
+/home/jagp/Desktop/programming-languages/c#/curso-design-patterns/solid-ocp/solucion/bin/Debug/netcoreapp3.1/solucion.pdb
+/home/jagp/Desktop/programming-languages/c#/curso-design-patterns/solid-ocp/solucion/obj/Debug/netcoreapp3.1/solucion.dll
+/home/jagp/Desktop/programming-languages/c#/curso-design-patterns/solid-ocp/solucion/obj/Debug/netcoreapp3.1/solucion.pdb
+/home/jagp/Desktop/programming-languages/c#/curso-design-patterns/solid-ocp/solucion/obj/Debug/netcoreapp3.1/solucion.genruntimeconfig.cache

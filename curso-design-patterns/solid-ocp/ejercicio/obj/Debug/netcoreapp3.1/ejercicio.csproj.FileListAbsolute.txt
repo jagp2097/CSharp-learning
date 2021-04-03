@@ -1,0 +1,13 @@
+/home/jagp/Desktop/programming-languages/c#/curso-design-patterns/solid-ocp/ejercicio/bin/Debug/netcoreapp3.1/ejercicio
+/home/jagp/Desktop/programming-languages/c#/curso-design-patterns/solid-ocp/ejercicio/bin/Debug/netcoreapp3.1/ejercicio.deps.json
+/home/jagp/Desktop/programming-languages/c#/curso-design-patterns/solid-ocp/ejercicio/bin/Debug/netcoreapp3.1/ejercicio.runtimeconfig.json
+/home/jagp/Desktop/programming-languages/c#/curso-design-patterns/solid-ocp/ejercicio/bin/Debug/netcoreapp3.1/ejercicio.runtimeconfig.dev.json
+/home/jagp/Desktop/programming-languages/c#/curso-design-patterns/solid-ocp/ejercicio/bin/Debug/netcoreapp3.1/ejercicio.dll
+/home/jagp/Desktop/programming-languages/c#/curso-design-patterns/solid-ocp/ejercicio/bin/Debug/netcoreapp3.1/ejercicio.pdb
+/home/jagp/Desktop/programming-languages/c#/curso-design-patterns/solid-ocp/ejercicio/obj/Debug/netcoreapp3.1/ejercicio.csprojAssemblyReference.cache
+/home/jagp/Desktop/programming-languages/c#/curso-design-patterns/solid-ocp/ejercicio/obj/Debug/netcoreapp3.1/ejercicio.AssemblyInfoInputs.cache
+/home/jagp/Desktop/programming-languages/c#/curso-design-patterns/solid-ocp/ejercicio/obj/Debug/netcoreapp3.1/ejercicio.AssemblyInfo.cs
+/home/jagp/Desktop/programming-languages/c#/curso-design-patterns/solid-ocp/ejercicio/obj/Debug/netcoreapp3.1/ejercicio.csproj.CoreCompileInputs.cache
+/home/jagp/Desktop/programming-languages/c#/curso-design-patterns/solid-ocp/ejercicio/obj/Debug/netcoreapp3.1/ejercicio.dll
+/home/jagp/Desktop/programming-languages/c#/curso-design-patterns/solid-ocp/ejercicio/obj/Debug/netcoreapp3.1/ejercicio.pdb
+/home/jagp/Desktop/programming-languages/c#/curso-design-patterns/solid-ocp/ejercicio/obj/Debug/netcoreapp3.1/ejercicio.genruntimeconfig.cache
