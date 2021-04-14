@@ -1,0 +1,13 @@
+/home/jagp/Desktop/programming-languages/c#/AvisosVarios/bin/Debug/netcoreapp3.1/AvisosVarios
+/home/jagp/Desktop/programming-languages/c#/AvisosVarios/bin/Debug/netcoreapp3.1/AvisosVarios.deps.json
+/home/jagp/Desktop/programming-languages/c#/AvisosVarios/bin/Debug/netcoreapp3.1/AvisosVarios.runtimeconfig.json
+/home/jagp/Desktop/programming-languages/c#/AvisosVarios/bin/Debug/netcoreapp3.1/AvisosVarios.runtimeconfig.dev.json
+/home/jagp/Desktop/programming-languages/c#/AvisosVarios/bin/Debug/netcoreapp3.1/AvisosVarios.dll
+/home/jagp/Desktop/programming-languages/c#/AvisosVarios/bin/Debug/netcoreapp3.1/AvisosVarios.pdb
+/home/jagp/Desktop/programming-languages/c#/AvisosVarios/obj/Debug/netcoreapp3.1/AvisosVarios.csprojAssemblyReference.cache
+/home/jagp/Desktop/programming-languages/c#/AvisosVarios/obj/Debug/netcoreapp3.1/AvisosVarios.AssemblyInfoInputs.cache
+/home/jagp/Desktop/programming-languages/c#/AvisosVarios/obj/Debug/netcoreapp3.1/AvisosVarios.AssemblyInfo.cs
+/home/jagp/Desktop/programming-languages/c#/AvisosVarios/obj/Debug/netcoreapp3.1/AvisosVarios.csproj.CoreCompileInputs.cache
+/home/jagp/Desktop/programming-languages/c#/AvisosVarios/obj/Debug/netcoreapp3.1/AvisosVarios.dll
+/home/jagp/Desktop/programming-languages/c#/AvisosVarios/obj/Debug/netcoreapp3.1/AvisosVarios.pdb
+/home/jagp/Desktop/programming-languages/c#/AvisosVarios/obj/Debug/netcoreapp3.1/AvisosVarios.genruntimeconfig.cache
